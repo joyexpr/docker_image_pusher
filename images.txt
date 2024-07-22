@@ -3,6 +3,9 @@
 #xhofe/alist:latest
 #sameersbn/postgresql:14-20230628
 sameersbn/gitlab:17.1.2
+sameersbn/redmine:3.4.13-2
+sameersbn/redmine:4.2.11-1
+sameersbn/redmine:5.1.2
 
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
