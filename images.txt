@@ -2,7 +2,7 @@
 #k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
 #xhofe/alist:latest
 #sameersbn/postgresql:14-20230628
-sameersbn/gitlab:17.11.3
+sameersbn/gitlab:17.11.4
 #sameersbn/redmine:5.0.8
 #sameersbn/redmine:5.1.1-1
 
